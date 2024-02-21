@@ -1,4 +1,5 @@
-PYTHAGOREAN THEOREM: #mindmap.yaml
+# template for mindmaps in format yaml
+PYTHAGOREAN THEOREM:
   Main:
     - sum of the squares of the legs = square of the hypotenuse
     - formula a^2 + b^2 = c^2 # {a,b: legs, c: hypotenuse}
