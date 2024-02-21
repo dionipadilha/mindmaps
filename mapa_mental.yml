@@ -2,7 +2,7 @@ TEOREMA DE PITÁGORAS: #m apa_mental.yaml
   Principal:
     - soma dos quadrados dos catetos = quadrado da hipotenusa
     - $a^2 + b^2 = c^2$ # onde {a,b: catetos, c: hipotenusa}
-    - trio pitagórico {3,4,5} #chaveMemoria
+    - trio pitagórico {3,4,5} #chaveMemoria 3^2 + 4^2 = 5^2
     - certifique-se de que o triângulo seja retângulo #pegadinha
   Função:
     - define triângulos retângulos
