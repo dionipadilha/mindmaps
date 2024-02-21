@@ -2,7 +2,7 @@ PYTHAGOREAN THEOREM: #mindmap.yaml
   Main:
     - sum of the squares of the legs = square of the hypotenuse
     - formula a^2 + b^2 = c^2 # {a,b: legs, c: hypotenuse}
-    - pythagorean trio 3,4,5 #key
+    - pythagorean trio 3,4,5 #keyMemo 3^2 + 4^2 = 5^2
     - make sure the triangle is rectangle #gotcha
   Function:
     - defines right triangles
