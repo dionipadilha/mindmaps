@@ -1,4 +1,5 @@
 # modelo para mapas mentais em formato yaml
+# se achou muita coisa, memorize apenas o principal.
 TEOREMA DE PITÁGORAS:
   Principal:
     - soma dos quadrados dos catetos = quadrado da hipotenusa
