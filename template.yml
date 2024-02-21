@@ -1,4 +1,6 @@
 # template for mindmaps in format yaml
+# if you found a lot, just memorize the main thing.
+
 PYTHAGOREAN THEOREM:
   Main:
     - sum of the squares of the legs = square of the hypotenuse
