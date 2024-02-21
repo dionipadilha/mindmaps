@@ -1,0 +1,17 @@
+PYTHAGOREAN THEOREM:
+  KeyPoints:
+    - a^2 + b^2 = c^2 # a,b are legs, c is hypotenuse
+    - Pythagorean Triple 3^2 + 4^2 = 5^2 #important
+    - Applies to Right triangles only
+  KeyConcepts:
+    - Right angle, right triangle, legs, hypotenuse
+    - geometric, visual (square method), algebraic demons
+  Applications:
+    - finding missing sides, diagonals, distances
+    - checking right angles
+  Limitations:
+    - non-right triangles, non-Euclidean geometries
+  Extensions:
+    - Law of cosines, Fermat's last theorem
+  Resources:
+   - geobebra animation, exercises
