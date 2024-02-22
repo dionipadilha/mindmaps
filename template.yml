@@ -1,38 +1,37 @@
 # template for mindmaps in format yaml
-# if you found a lot, just memorize the main thing.
 
-PYTHAGOREAN THEOREM:
-  Main:
-    - sum of the squares of the legs = square of the hypotenuse
-    - formula a^2 + b^2 = c^2 # {a,b: legs, c: hypotenuse}
-    - pythagorean trio 3,4,5 #keyMemo 3^2 + 4^2 = 5^2
-    - make sure the triangle is rectangle #gotcha
-  Function:
-    - defines right triangles
-    - geometry, trigonometry and several other areas
-  Concepts:
-    - right angle # 90 degrees
-    - right triangle # triangle with right angle
-    - legs # smaller sides
-    - hypotenuse # side opposite to the right angle
-  Demonstrations:
-    - similarity of triangles # geometric
-    - square method # visual
-    - algebraic # formal
-  Applications:
-    - calculate unknown side in right triangles
-    - find diagonal of squares/rectangles
-    - determine distance between points
-    - determine whether the angle is right
-  Limitations:
-    - does not apply to non-right triangles #gotcha
-    - not valid in non-Euclidean geometries
-  Extensions:
-    - law of cosines # non-right triangles
-    - pythagorean reciprocal theorem
-    - Fermat's last theorem # x^n + y^n = z^n
-    - Thales theorem # similar triangles
-    - Euclid's theorem # generalization area of triangles
-  Resources:
-    - visual animation # https://www.geogebra.org/m/qgphvqus
-    - exercises # https://www.exemplo.com.br/pitagoras/lista_1
+TOPIC_NAME:
+     Main:
+       - main point 1
+       - main point 2 # {variable1, variable2, ...}
+       - example 1 #keyMemo formula or key example
+       - important consideration #gotcha
+     Function:
+       - define key concepts
+       - applications in various fields
+     Concepts:
+       - concept 1 # specific details
+       - concept 2 # additional information
+       - term 1 # definition
+       - term 2 # explanation
+     Demos:
+       - demonstration method 1 # type of demonstration
+       - demonstration method 2 # visual or formal method
+       - demonstration method 3 # practical example
+     Forms:
+       - perform action 1
+       - calculate quantity in situation 2
+       - determine aspect in scenario 3
+       - validate condition in case 4
+     Limitations:
+       - specific limitation 1 # additional information
+       - specific limitation 2 # noteworthy point
+     Extensions:
+       - extension concept 1 # for advanced cases
+       - extension concept 2 # additional theorems or laws
+       - related advanced topic 1 # theorem or principle
+       - related advanced topic 2 # mathematical or scientific concept
+     Resources:
+       - multimedia resource 1 # link or reference
+       - additional resource 2 # source or tool
+       - exercises or practice material # link or reference
