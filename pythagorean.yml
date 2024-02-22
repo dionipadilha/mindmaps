@@ -1,0 +1,38 @@
+# exemple for mindmaps in format yaml
+# if you found a lot, just memorize the main thing.
+
+PYTHAGOREAN THEOREM:
+  Main:
+    - sum of the squares of the legs = square of the hypotenuse
+    - formula a^2 + b^2 = c^2 # {a,b: legs, c: hypotenuse}
+    - pythagorean trio 3,4,5 #keyMemo 3^2 + 4^2 = 5^2
+    - make sure the triangle is rectangle #gotcha
+  Function:
+    - defines right triangles
+    - geometry, trigonometry and several other areas
+  Concepts:
+    - right angle # 90 degrees
+    - right triangle # triangle with right angle
+    - legs # smaller sides
+    - hypotenuse # side opposite to the right angle
+  Demonstrations:
+    - similarity of triangles # geometric
+    - square method # visual
+    - algebraic # formal
+  Applications:
+    - calculate unknown side in right triangles
+    - find diagonal of squares/rectangles
+    - determine distance between points
+    - determine whether the angle is right
+  Limitations:
+    - does not apply to non-right triangles #gotcha
+    - not valid in non-Euclidean geometries
+  Extensions:
+    - law of cosines # non-right triangles
+    - pythagorean reciprocal theorem
+    - Fermat's last theorem # x^n + y^n = z^n
+    - Thales theorem # similar triangles
+    - Euclid's theorem # generalization area of triangles
+  Resources:
+    - visual animation # https://www.geogebra.org/m/qgphvqus
+    - exercises # https://www.exemplo.com.br/pitagoras/lista_1
