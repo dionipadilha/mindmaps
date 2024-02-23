@@ -12,7 +12,7 @@ Quadratic Equations:
     - d > 0 # distinct roots
     - d = 0 # equal roots
     - d < 0 # complex roots
-  Extensions:
+  Relateds:
     - Sum and Product Rule # S := -b/a and P := c/a
     - Completing the Square # perfect squares
     - Factors of the polynomial expression # (x−x')(x−x") == 0
