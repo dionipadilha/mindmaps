@@ -1,14 +1,12 @@
 Quadratic Equations:
-  Main:
-    - Quadratic Equation # a*x^2 + b*x + c == 0
+  Quadratic Equation: # a*x^2 + b*x + c == 0
     - Delta # d := b^2 - 4*a*c
     - Roots # x':= (-b - d)/2*a and x":= (-b + d)/2*a
     - Vertex # vx := -b/2*a and vy := -d/4*a
-  Interpretations:
-    Concavity: #
+  Concavity: #
     - a > 0 # U
     - a < 0 # iU (inverted U-shaped)
-    Discriminant: # \Delta
+  Discriminant: # \Delta
     - d > 0 # distinct roots
     - d = 0 # equal roots
     - d < 0 # complex roots
