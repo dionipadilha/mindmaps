@@ -30,8 +30,8 @@ Quadratic Equations:
 #2: second mind map
 
 Quadratic Equations: # x^2
-  # Solution
-  a*x^2 + b*x + c: 0
+  # Equation
+  quadratic_eq: Eq(a*x^2 + b*x + c, 0)
     - if a > 0 then U
     - if a < 0 then iU (inverted U-shaped)
 
@@ -60,4 +60,3 @@ Quadratic Equations: # x^2
     polynomial factorization: (x-x')(x-x")
 
 ---
-
