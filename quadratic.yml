@@ -1,19 +1,63 @@
+#request: compare the quadratic_mindmaps.yml
+
+---
+#1: fisrt mind map
 Quadratic Equations:
   Quadratic Equation: # x^2
     - equation # a*x^2 + b*x + c == 0
     - discriminant # d := b^2 - 4*a*c
-  NotablePoints:
     - roots # x':= (-b - d)/2*a and x":= (-b + d)/2*a
+
+  NotablePoints:
     - vertex # (vx, vy) := (-b/2a, -d/4a)
-    - y-axis intercept  # (0, f(0)) := c --> independent term
+    - intercept_y # (0, c)
+
   Concavity:
     - a > 0 # U
     - a < 0 # iU (inverted U-shaped)
+
   Discriminant: # \Delta
     - d > 0 # distinct roots
     - d = 0 # equal roots
     - d < 0 # complex roots
+
   Related:
     - sum and product # S := -b/a and P := c/a
     - completing the square # (x + m)^2 + n
     - polynomial factorization # (x−x')(x−x")
+
+---
+#2: second mind map
+
+Quadratic Equations: # x^2
+  # Solution
+  a*x^2 + b*x + c: 0
+    - if a > 0 then U
+    - if a < 0 then iU (inverted U-shaped)
+
+  # Discriminant:
+  Δ: b^2 - 4*a*c
+    - if Δ > 0 then distinct roots
+    - if Δ = 0 then equal roots
+    - if Δ < 0 then complex roots
+
+  roots:
+    x': (-b - sqrt(Δ))/2*a
+    x": (-b + sqrt(Δ))/2*a
+
+  # Notable Points
+  vertex: #(vx, vy)
+    vx: -b/2a
+    vy: -d/4a
+  intercept_y: (0, c) # c == f(0)
+
+  # Related
+  related:
+    sum and product:
+      S: -b/a
+      P: c/a
+    completing the square: (x + m)^2 + n
+    polynomial factorization: (x-x')(x-x")
+
+---
+
