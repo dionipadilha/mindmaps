@@ -1,0 +1,16 @@
+# mindmap.yml
+Logarithm: #  inverse of exponentials
+  
+  Definition: #
+    - y = log(x, b) # b raised to the power of y equals x
+    - example # log(8, 2) = 3 because 2^3 = 8
+
+  Properties: # (b > 0, b ≠ 1)
+    - logarithm of 1 to any base # log(1, b) = 0
+    - logarithm of the base itself # log(b, b) = 1
+    - inverse relationship with exponentiation # b^log(x, b) = x
+    - change of base # log(x, a) <==> log(x, b) / log(a, b)
+
+  Types:
+    - Common logarithm # log(x, 10)
+    - Natural logarithm # log(x), log(x, e) where e ~ 2.7
