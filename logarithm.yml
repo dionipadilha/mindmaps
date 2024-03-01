@@ -14,10 +14,11 @@ Logarithm: #  inverse of exponentials
     - logarithm of 1               # log(1, b) = 0
     - logarithm of the base itself # log(b, b) = 1
     - inverse of exponentiation    # b^log(x, b) = x
-    - logarithm of a reciprocal    # log(1/x, b) <==> - log(x, b)
+    
     
   Properties:
-    - product rule   # log(m * n, b) <==> log(m, b) + log(n, b)
-    - quotient rule  # log(m/n, b)   <==> log(m, b) - log(n, b)
-    - power rule     # log(m^n, b)   <==> n * log(m, b)
-    - change of base # log(x, a)     <==> log(x, b) / log(a, b)
+    - product rule    # log(m * n, b) <==> log(m, b) + log(n, b)
+    - quotient rule   # log(m/n, b)   <==> log(m, b) - log(n, b)
+    - reciprocal rule # log(1/x, b) <==> - log(x, b)
+    - power rule      # log(m^n, b)   <==> n * log(m, b)
+    - change of base  # log(x, a)     <==> log(x, b) / log(a, b)
