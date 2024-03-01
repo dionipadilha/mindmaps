@@ -6,11 +6,17 @@ Logarithm: #  inverse of exponentials
     - example # log(8, 2) = 3 because 2^3 = 8
 
   Properties: # when (b > 0, b ≠ 1)
-    - logarithm of 1 to any base # log(1, b) = 0
+    - logarithm of 1 # log(1, b) = 0
     - logarithm of the base itself # log(b, b) = 1
     - inverse relationship with exponentiation # b^log(x, b) = x
-    - change of base # log(x, a) <==> log(x, b) / log(a, b)
 
+  Identities:
+    - product rule   # log(m * n, b) <==> log(m, b) + log(n, b)
+    - quotient rule  # log(m/n, b)   <==> log(m, b) - log(n, b)
+    - power rule     # log(m^n, b)   <==> n * log(m, b)
+    - change of base # log(x, a)     <==> log(x, b) / log(a, b)
+
+    
   Types:
     - Common logarithm # log(x, 10)
     - Natural logarithm # log(x), log(x, e) where e ~ 2.7
