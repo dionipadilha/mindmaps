@@ -1,5 +1,10 @@
 Quadratic Equations: # a*x^2 + b*x + c = 0
 
+  Related:
+    - sum and product # S := -b/a and P := c/a
+    - completing the square # (x + m)^2 + n
+    - polynomial factorization # (x−x')(x−x")
+    
   Concavity:
     - a > 0 # U
     - a < 0 # iU (inverted U-shaped)
@@ -17,10 +22,3 @@ Quadratic Equations: # a*x^2 + b*x + c = 0
     - roots # x', x"
     - vertex # (vx, vy) := (-b/2a, -Δ/4a)
     - intercept_y # (0, c)
-
-
-
-  Related:
-    - sum and product # S := -b/a and P := c/a
-    - completing the square # (x + m)^2 + n
-    - polynomial factorization # (x−x')(x−x")
