@@ -1,0 +1,31 @@
+TRIGONOMETRIC FUNCTIONS:
+
+  KeyMemo: 1, 2, 3 # table constructor
+
+  Sine:
+    - definition # sin(x) = opposite / hypotenuse
+    - symmetric # odd --> sin(-x) = -sin(x)
+    - period # T = 2π radians
+    - domain # Reals
+    - range  # [-1, 1]
+    
+  Cosine:
+    - definition # cos(x) = adjacent / hypotenuse
+    - symmetric # even --> (cos(-x) = cos(x))
+    - period # T = 2π radians
+    - domain # Reals
+    - range  # [-1, 1]
+
+  Tangent:
+    - definition # tan(x) = sin(x) / cos(x)
+    - symmetric # neither even nor odd
+    - period # T = π
+    - domain # Reals excluding odd multiples of π/2 -because-> cos(π/2) = 0
+    - range  # real numbers
+
+  Notable angles: |
+    ang| 30   | 45   | 60
+    -----------------------
+    sin| 1/2  | √2/2 | √3/2
+    cos| √3/2 | 2/√2 | 1/2
+    tan| 1/√3 | 1    | √3
