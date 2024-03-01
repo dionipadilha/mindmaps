@@ -19,6 +19,6 @@ Logarithm: #  inverse of exponentials
   Properties:
     - product rule    # log(m * n, b) <==> log(m, b) + log(n, b)
     - quotient rule   # log(m/n, b)   <==> log(m, b) - log(n, b)
-    - reciprocal rule # log(1/x, b) <==> - log(x, b)
+    - reciprocal rule # log(1/x, b)   <==> - log(x, b)
     - power rule      # log(m^n, b)   <==> n * log(m, b)
     - change of base  # log(x, a)     <==> log(x, b) / log(a, b)
