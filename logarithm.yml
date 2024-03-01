@@ -16,7 +16,7 @@ Logarithm: #  inverse of exponentials
     - inverse function of exponentiation # b^log(x, b) = x
     
   Properties:
-    - change of base # log(x, a) <==> log(x, b) / log(a, b)
     - product rule   # log(m * n, b) <==> log(m, b) + log(n, b)
     - quotient rule  # log(m/n, b)   <==> log(m, b) - log(n, b)
     - power rule     # log(m^n, b)   <==> n * log(m, b)
+    - change of base # log(x, a) <==> log(x, b) / log(a, b)
