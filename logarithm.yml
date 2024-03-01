@@ -9,17 +9,14 @@ Logarithm: #  inverse of exponentials
   Types:
     - Common logarithm # log(x, 10)
     - Natural logarithm # log(x), log(x, e) where e ~ 2.7
-
-  Properties: # when (b > 0, b ≠ 1)
+    
+  Identities:
     - logarithm of 1 # log(1, b) = 0
     - logarithm of the base itself # log(b, b) = 1
     - inverse function of exponentiation # b^log(x, b) = x
-
-  Identities:
+    
+  Properties:
+    - change of base # log(x, a) <==> log(x, b) / log(a, b)
     - product rule   # log(m * n, b) <==> log(m, b) + log(n, b)
     - quotient rule  # log(m/n, b)   <==> log(m, b) - log(n, b)
     - power rule     # log(m^n, b)   <==> n * log(m, b)
-    - change of base # log(x, a)     <==> log(x, b) / log(a, b)
-
-    
-
