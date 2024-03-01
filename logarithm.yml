@@ -1,7 +1,6 @@
 Logarithm: # inverse of exponentials
 
-  Definition:
-    - Logarithm # log(x, b) = y  <==> b^y = x
+  Definition: # log(x, b) = y  <==> b^y = x
     - example 1 # log(8, 2) = 3  <==> 2^3 = 8
     - example 2 # log(27, 3) = 3 <==> 3^3 = 27
     
