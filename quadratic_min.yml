@@ -1,7 +1,0 @@
-QuadraticEquations:
-  - QuadraticEquation # ax^2 + bx + c == 0
-  - QuadraticFormula  # x = (-b ± √(b^2 - 4ac)) / 2a
-  - Discriminant:     # b^2 - 4ac
-    - Positive        # Two distinct real roots
-    - Zero            # One repeated real root
-    - Negative        # Two complex roots
