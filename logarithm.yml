@@ -1,11 +1,11 @@
 # mindmap.yml
 Logarithm: #  inverse of exponentials
-  
+
   Definition: #
     - Logarithm function # y = log(x, b) <==> b^y = x
     - example 1 # log(8, 2) = 3 because 2^3 = 8
     - example 2 # log(27, 3) = 3 because 3^3 = 27
-  
+    
   Types:
     - Common logarithm  # log(x, 10)
     - Natural logarithm # log(x, e), log(x)
