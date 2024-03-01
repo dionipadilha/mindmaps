@@ -7,15 +7,14 @@ Logarithm: #  inverse of exponentials
     - example 2 # log(27, 3) = 3 because 3^3 = 27
   
   Types:
-    - Common logarithm # log(x, 10)
-    - Natural logarithm # log(x), log(x, e) where e ~ 2.7
+    - Common logarithm  # log(x, 10)
+    - Natural logarithm # log(x, e), log(x)
     
-  Identities:
+  Identities: # when (b > 0, b ≠ 1)
     - logarithm of 1 # log(1, b) = 0
     - logarithm of the base itself # log(b, b) = 1
     - reciprocal # log(1/x, b) = x
     - inverse of exponentiation # b^log(x, b) = x
-    
     
   Properties:
     - product rule   # log(m * n, b) <==> log(m, b) + log(n, b)
