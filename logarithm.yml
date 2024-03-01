@@ -1,9 +1,9 @@
 Logarithm: # inverse of exponentials
 
 Definition:
-- Logarithm # log(x, b) = y  because b^y = x
-- example 1 # log(8, 2) = 3 because 2^3 = 8
-- example 2 # log(27, 3) = 3 because 3^3 = 27
+- Logarithm # log(x, b) = y  <==> b^y = x
+- example 1 # log(8, 2) = 3  <==> 2^3 = 8
+- example 2 # log(27, 3) = 3 <==> 3^3 = 27
     
   Types:
     - Common logarithm  # log(x, 10)
