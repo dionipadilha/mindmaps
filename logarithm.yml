@@ -2,8 +2,13 @@
 Logarithm: #  inverse of exponentials
   
   Definition: #
-    - y = log(x, b) # b raised to the power of y equals x
-    - example # log(8, 2) = 3 because 2^3 = 8
+    - Logarithm # y = log(x, b) <==> b^y = x
+    - example 1 # log(8, 2) = 3 because 2^3 = 8
+    - example 2 # log(27, 3) = 3 because 3^3 = 27
+  
+  Types:
+    - Common logarithm # log(x, 10)
+    - Natural logarithm # log(x), log(x, e) where e ~ 2.7
 
   Properties: # when (b > 0, b ≠ 1)
     - logarithm of 1 # log(1, b) = 0
@@ -17,6 +22,4 @@ Logarithm: #  inverse of exponentials
     - change of base # log(x, a)     <==> log(x, b) / log(a, b)
 
     
-  Types:
-    - Common logarithm # log(x, 10)
-    - Natural logarithm # log(x), log(x, e) where e ~ 2.7
+
