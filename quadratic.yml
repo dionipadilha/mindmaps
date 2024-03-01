@@ -1,6 +1,6 @@
 Quadratic Equations: # a*x^2 + b*x + c = 0
 
-  Related:
+  Solvers:
     - sum and product # S := -b/a and P := c/a
     - completing the square # (x + m)^2 + n
     - polynomial factorization # (x−x')(x−x")
