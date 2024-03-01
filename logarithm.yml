@@ -8,7 +8,7 @@ Logarithm: #  inverse of exponentials
   Properties: # when (b > 0, b ≠ 1)
     - logarithm of 1 # log(1, b) = 0
     - logarithm of the base itself # log(b, b) = 1
-    - inverse relationship with exponentiation # b^log(x, b) = x
+    - inverse function of exponentiation # b^log(x, b) = x
 
   Identities:
     - product rule   # log(m * n, b) <==> log(m, b) + log(n, b)
