@@ -1,6 +1,9 @@
-# mindmap.yml
 Quadratic Equations: # a*x^2 + b*x + c = 0
 
+  Concavity:
+    - a > 0 # U
+    - a < 0 # iU (inverted U-shaped)
+    
   Discriminant: # Δ = b^2 - 4*a*c
     - Δ > 0 # distinct roots
     - Δ = 0 # equal roots
@@ -15,9 +18,7 @@ Quadratic Equations: # a*x^2 + b*x + c = 0
     - vertex # (vx, vy) := (-b/2a, -Δ/4a)
     - intercept_y # (0, c)
 
-  Concavity:
-    - a > 0 # U
-    - a < 0 # iU (inverted U-shaped)
+
 
   Related:
     - sum and product # S := -b/a and P := c/a
