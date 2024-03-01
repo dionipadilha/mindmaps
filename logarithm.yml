@@ -2,7 +2,7 @@
 Logarithm: #  inverse of exponentials
   
   Definition: #
-    - Logarithm # y = log(x, b) <==> b^y = x
+    - Logarithm function # y = log(x, b) <==> b^y = x
     - example 1 # log(8, 2) = 3 because 2^3 = 8
     - example 2 # log(27, 3) = 3 because 3^3 = 27
   
@@ -13,7 +13,9 @@ Logarithm: #  inverse of exponentials
   Identities:
     - logarithm of 1 # log(1, b) = 0
     - logarithm of the base itself # log(b, b) = 1
-    - inverse function of exponentiation # b^log(x, b) = x
+    - reciprocal # log(1/x, b) = x
+    - inverse of exponentiation # b^log(x, b) = x
+    
     
   Properties:
     - product rule   # log(m * n, b) <==> log(m, b) + log(n, b)
