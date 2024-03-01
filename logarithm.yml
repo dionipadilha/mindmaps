@@ -11,10 +11,10 @@ Logarithm: #  inverse of exponentials
     - Natural logarithm # log(x, e), log(x)
     
   Identities: # when (b > 0, b ≠ 1)
-    - logarithm of 1 # log(1, b) = 0
+    - logarithm of 1               # log(1, b) = 0
     - logarithm of the base itself # log(b, b) = 1
-    - reciprocal # log(1/x, b) = x
-    - inverse of exponentiation # b^log(x, b) = x
+    - inverse of exponentiation    # b^log(x, b) = x
+    - logarithm of a reciprocal    # log(1/x, b) <==> - log(x, b)
     
   Properties:
     - product rule   # log(m * n, b) <==> log(m, b) + log(n, b)
