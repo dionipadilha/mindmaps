@@ -7,6 +7,9 @@ Pythagorean Theorem:
   Concepts:
     - right angle # 90 degrees
     - right triangle # triangle with right angle
+  Applications:
+    - finding missing sides
+    - checking right angles
   Limitations:
     - does not apply to non-right triangles #gotcha
     - not valid in non-euclidean geometries
