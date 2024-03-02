@@ -7,11 +7,11 @@
 
 ### FUNDAMENTAL TRIGONOMETRIC  FUNCTIONS:
 
-Function |Definitions |Symmetry |T  |Domain                                |Range
----------|------------|---------|---|--------------------------------------|-------
-sin(x)   |co / hyp    |odd      |2π |Reals                                 |[-1, 1]
-cos(x)   |ca / hyp    |even     |2π |Reals                                 |[-1, 1]
-tan(x)   |co/ ca      |neither  |π  |Reals, excluding odd multiples of π/2 |Reals
+Mnemonic |Symmetry |T  |Domain                                |Range
+---------|---------|---|--------------------------------------|-------
+SOH      |odd      |2π |Reals                                 |[-1, 1]
+CAH      |even     |2π |Reals                                 |[-1, 1]
+TOA      |neither  |π  |Reals, excluding odd multiples of π/2 |Reals
 
 
 ### FUNDAMENTAL NOTABLE ANGLES:
