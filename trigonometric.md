@@ -2,8 +2,7 @@
 
 ### KeyMemo
 - SOH CAH TOA
-- Triangle 30-60-90
-- Triangle 45-45-90 (isosceles)
+- Special Triangles: 30-60-90,  45-45-90 (isosceles)
 - Unit circle
 
 ### FUNDAMENTAL TRIGONOMETRIC  FUNCTIONS:
