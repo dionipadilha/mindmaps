@@ -1,5 +1,5 @@
 
-TRIGONOMETRIC  FUNCTIONS
+FUNDAMENTAL TRIGONOMETRIC  FUNCTIONS:
 
 Function |Definitions |Symmetry |T  |Domain                                |Range
 ---------|------------|---------|---|--------------------------------------|-------
@@ -8,7 +8,7 @@ cos(x)   |ca / hyp    |even     |2π |Reals                                 |[-1
 tan(x)   |co/ ca      |neither  |π  |Reals, excluding odd multiples of π/2 |Reals
 
 
-NOTABLE ANGLES
+FUNDAMENTAL NOTABLE ANGLES:
 
 |   |$30$   |$45$         |$60$                 |
 ----|---------------------|---------------------|--------------------
