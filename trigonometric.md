@@ -1,11 +1,11 @@
 
 TRIGONOMETRIC  FUNCTIONS
 
-|Function | Definitions     | Symmetry | T  | Domain                                | Range   |
-|---------|-----------------|----------|----|---------------------------------------|---------|
-|sin(x)   | co / hyp        | Odd      | 2π | Reals                                 | [-1, 1] |
-|cos(x)   | ca / hyp        | Even     | 2π | Reals                                 | [-1, 1] |
-|tan(x)   | sin(x) / cos(x) | Neither  | π  | Reals, excluding odd multiples of π/2 | Reals   |
+|Function |Definitions     |Symmetry |T  |Domain                                |Range   |
+|---------|----------------|---------|---|--------------------------------------|--------|
+|sin(x)   |co / hyp        |Odd      |2π |Reals                                 |[-1, 1] |
+|cos(x)   |ca / hyp        |Even     |2π |Reals                                 |[-1, 1] |
+|tan(x)   |sin(x) / cos(x) |Neither  |π  |Reals, excluding odd multiples of π/2 |Reals   |
 
 
 NOTABLE ANGLES
