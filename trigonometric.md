@@ -2,7 +2,7 @@
 
 ## SOH CAH TOA
 
-FUNDAMENTAL TRIGONOMETRIC  FUNCTIONS:
+### FUNDAMENTAL TRIGONOMETRIC  FUNCTIONS:
 
 Function |Definitions |Symmetry |T  |Domain                                |Range
 ---------|------------|---------|---|--------------------------------------|-------
@@ -11,7 +11,7 @@ cos(x)   |ca / hyp    |even     |2π |Reals                                 |[-1
 tan(x)   |co/ ca      |neither  |π  |Reals, excluding odd multiples of π/2 |Reals
 
 
-FUNDAMENTAL NOTABLE ANGLES:
+### FUNDAMENTAL NOTABLE ANGLES:
 
 |   |$30^\circ$           |$45^\circ$           |$60^\circ$
 ----|---------------------|---------------------|--------------------
