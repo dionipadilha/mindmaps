@@ -14,7 +14,7 @@ CAH      |even     |2π |Reals                                 |[-1, 1]
 TOA      |neither  |π  |Reals, excluding odd multiples of π/2 |Reals
 
 
-### NOTABLE ANGLES:
+### FUNDAMENTAL NOTABLE ANGLES:
 
 |   |$30^\circ$           |$45^\circ$           |$60^\circ$
 ----|---------------------|---------------------|--------------------
