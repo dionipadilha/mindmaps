@@ -10,7 +10,7 @@ tan(x)   |co/ ca      |neither  |π  |Reals, excluding odd multiples of π/2 |Re
 
 NOTABLE ANGLES
 
-    |$30$   |$45$         |$60$                 |
+|   |$30$   |$45$         |$60$                 |
 ----|---------------------|---------------------|--------------------
 sin |$\frac{1}{2}$        |$\frac{\sqrt{2}}{2}$ |$\frac{\sqrt{3}}{2}$
 cos |$\frac{\sqrt{3}}{2}$ |$\frac{\sqrt{2}}{2}$ |$\frac{1}{2}$
