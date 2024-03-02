@@ -1,5 +1,7 @@
 # Solving Trigonometric Problems
 
+## SOH CAH TOA
+
 FUNDAMENTAL TRIGONOMETRIC  FUNCTIONS:
 
 Function |Definitions |Symmetry |T  |Domain                                |Range
