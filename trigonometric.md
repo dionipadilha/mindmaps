@@ -8,12 +8,10 @@ TRIGONOMETRIC  FUNCTIONS
 | tan(x)   | sin(x) / cos(x) | Neither  | π  | Reals, excluding odd multiples of π/2 | Reals   |
 
 
-|--------------------------|
-|      NOTABLE ANGLES      |
-|--------------------------|
+NOTABLE ANGLES
+
 |     | 30   | 45   | 60   |
 |-----|------|------|------|
 | sin | 1/2  | √2/2 | √3/2 |
 | cos | √3/2 | 2/√2 | 1/2  |
 | tan | 1/√3 | 1    | √3   |
-|--------------------------|
