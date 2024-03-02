@@ -20,6 +20,6 @@ Quadratic Equations: # a*x^2 + b*x + c = 0
     - x"= (-b + sqrt(Δ))/2*a
 
   NotablePoints:
-    - roots # x', x"
-    - vertex # (vx, vy) := (-b/2a, -Δ/4a)
-    - intercept_y # (0, c)
+    - roots # intersects the x-axis --> x', x"
+    - vertex # turning point --> (vx, vy) = (-b/2a, -Δ/4a)
+    - intercept_y # intersects the y-axis --> (0, c)
