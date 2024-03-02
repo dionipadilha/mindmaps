@@ -1,11 +1,11 @@
-# Solving Trigonometric Problems
+# SOLVING TRIGONOMETRIC PROBLEMS
 
 ### KeyMemo
 - SOH CAH TOA
 - Special Triangles: 30-60-90,  45-45-90 (isosceles)
 - Unit circle
 
-### FUNDAMENTAL TRIGONOMETRIC  FUNCTIONS:
+### Fundamental Trigonometric Functions
 
 Mnemonic |Symmetry |T  |Domain                                |Range
 ---------|---------|---|--------------------------------------|-------
@@ -14,7 +14,7 @@ CAH      |even     |2π |Reals                                 |[-1, 1]
 TOA      |neither  |π  |Reals, excluding odd multiples of π/2 |Reals
 
 
-### FUNDAMENTAL NOTABLE ANGLES:
+### Fundamental Notable Angles
 
 |   |$30^\circ$           |$45^\circ$           |$60^\circ$
 ----|---------------------|---------------------|--------------------
