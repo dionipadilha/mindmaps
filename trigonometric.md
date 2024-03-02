@@ -2,8 +2,8 @@
 
 ### KeyMemo
 - SOH CAH TOA
-- 30-60-90 Triangle
-- 45-45-90 Triangle (isosceles)
+- Triangle 30-60-90
+- Triangle 45-45-90 (isosceles)
 
 ### FUNDAMENTAL TRIGONOMETRIC  FUNCTIONS:
 
