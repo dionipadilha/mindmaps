@@ -1,5 +1,8 @@
 Logarithm: # inverse of exponentials
 
+  KeyMemo:
+    - log(8, 2) = 3  <==> 2^3 = 8
+  
   Definition:
     - logarithm # log(x, b) = y  <==> b^y = x
     - example 1 # log(8, 2) = 3  <==> 2^3 = 8
