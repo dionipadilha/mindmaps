@@ -1,3 +1,4 @@
+# Solving Trigonometric Problems
 
 FUNDAMENTAL TRIGONOMETRIC  FUNCTIONS:
 
