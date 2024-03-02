@@ -2,8 +2,8 @@ Quadratic Equations: # a*x^2 + b*x + c = 0
 
   Solvers:
     - sum and product       # {x'+ x'' = -b/a, x'*x" = c/a}
-    - factoring             # (x − x') * (x − x")
-    - completing the square # (x + m)^2 + n
+    - factoring             # (x − x') * (x − x") = 0
+    - completing the square # (x + m)^2 + n = 0
     - quadratic formula     # x = (-b ± √Δ) / 2a
     
   Concavity:
