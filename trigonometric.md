@@ -11,7 +11,7 @@ tan(x)   |co/ ca      |neither  |π  |Reals, excluding odd multiples of π/2 |Re
 
 FUNDAMENTAL NOTABLE ANGLES:
 
-    |$30^\circ$           |$45^\circ$           |$60^\circ$
+-   |$30^\circ$           |$45^\circ$           |$60^\circ$
 ----|---------------------|---------------------|--------------------
 sin |$\frac{1}{2}$        |$\frac{\sqrt{2}}{2}$ |$\frac{\sqrt{3}}{2}$
 cos |$\frac{\sqrt{3}}{2}$ |$\frac{\sqrt{2}}{2}$ |$\frac{1}{2}$
