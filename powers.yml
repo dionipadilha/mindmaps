@@ -12,10 +12,10 @@ Powers:
     - Fractional       # b^(m/n) <==> (n√b)^m
     - Power            # b^m^n   <==> b^(m*n)
 
-  Base Simplifications:
-    - Power of a Product  # (a*b)^n <==> a^n * b^n
-    - Power of a Quotient # (a/b)^n <==> a^n / b^n
-
   Same Base Manipulations:
     - Same Base Product  # b^m * b^n <==> b^(m + n)
     - Same Base Quotient # b^m / b^n <==> b^(m - n)
+
+  Different Base Manipulations:
+    - Power of a Product  # (a*b)^n <==> a^n * b^n
+    - Power of a Quotient # (a/b)^n <==> a^n / b^n
