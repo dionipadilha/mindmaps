@@ -2,10 +2,10 @@ Powers:
 
   Definition:
     - function # y = power(x, n) <==> y = x^n
-    - exemple  # y = power(2, 3) <==> y = 2^3
+    - exemple  # y = power(2, 3) <==> y = 2^3 = 2 * 2 * 2 = 8
   
   Exponent Rules:
-    - Zero             # b^0 = 1, b!= 0
+    - Zero             # b^0 = 1, b != 0
     - One              # b^1 = b
     - Positive Integer # b^n     <==> b * b * … (with n factors)
     - Negative         # b^-n    <==> 1/b^n
@@ -13,8 +13,8 @@ Powers:
     - Power            # b^m^n   <==> b^(m*n)
 
   Same Base Manipulations:
-    - Same Base Product  # b^m * b^n <==> b^(m + n)
-    - Same Base Quotient # b^m / b^n <==> b^(m - n)
+    - Product with Same Base  # b^m * b^n <==> b^(m + n)
+    - Quotient with Same Base # b^m / b^n <==> b^(m - n)
 
   Different Base Manipulations:
     - Power of a Product  # (a*b)^n <==> a^n * b^n
