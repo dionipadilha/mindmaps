@@ -13,7 +13,7 @@ Powers:
     - Power            # b^m^n   <==> b^(m*n)
 
   Base Simplifications:
-    - Power of a Product # (a*b)^n <==> a^n * b^n
+    - Power of a Product  # (a*b)^n <==> a^n * b^n
     - Power of a Quotient # (a/b)^n <==> a^n / b^n
 
   Same Base Manipulations:
