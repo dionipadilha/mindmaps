@@ -1,0 +1,23 @@
+RADICIAÇÃO:
+
+  KeyMemo: # √(7.2) <==> (6√5)/5
+
+  Observações:
+    - A radiciação é a operação inversa da potenciação
+    - O radicando deve ser um número real e não negativo
+    - índice indica quantas de vezes o radicando é multiplicado por si mesmo
+  
+  Propriedades:
+    - Raiz de um Produto   # √(a * b) <==> √a * √b
+    - Raiz de um Quociente # √(a / b) <==> √a / √b, b ≠ 0
+    - Raiz de uma Potência # (√a)^n   <==> a^(n/2)
+    - Enésima Raiz         # n√(m√a)  <==> (mn)√a
+    - Racionalização       # a / √b = a√b / b (b ≠ 0)
+
+  Propriedades Adicionais:
+    - Squaring  # √a^2 <==> |a|, a é real
+    - Products  # √(a * b) ≠ √a * √b, a e b são reais e negativos
+    - Quotients # √(a / b) ≠ √a / √b # a e b são reais e b é negativo
+
+  Extensões:
+    - √-1 = I
