@@ -11,3 +11,6 @@ Produtos Notáveis:
 
   Triângulo de Pascal:
     - As linhas do TP fornecem os coeficientes binomiais # termos dos PNs
+    - segunda linha do triângulo ==> expansão de (a + b)^2 # 1, 2, 1
+    - terceira linha do triângulo ==> expansão de (a + b)^3 # 1, 3, 3, 1
+    - ...
