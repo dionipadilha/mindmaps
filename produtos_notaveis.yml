@@ -1,0 +1,13 @@
+Produtos Notáveis:
+  
+  Quadrados:
+    - Quadrado de uma soma (SQS)      # (a + b)^2 <==> a^2 + 2ab + b^2
+    - Quadrado de uma diferença (DQD) # (a - b)^2 <==> a^2 - 2ab + b^2
+    - Produto da soma pela diferença  # (a - b)(a + b) <==> a^2 - b^2
+
+  Cubos:
+    - Cubo de uma soma      # (a + b)^3 <==> a^3 + 3 a^2 b + 3 a b^2 + b^3
+    - Cubo de uma diferença # (a - b)^3 <==> a^3 - 3 a^2 b + 3 a b^2 - b^3
+
+  Triângulo de Pascal:
+    - As linhas do TP fornecem os coeficientes binomiais # termos dos PNs
