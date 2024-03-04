@@ -7,7 +7,7 @@ Powers:
   Exponent Rules:
     - Zero             # b^0 = 1, b!= 0
     - One              # b^1 = b
-    - Positive Integer # b^n     <==> b * … (with n factors)
+    - Positive Integer # b^n     <==> b * b * … (with n factors)
     - Negative         # b^-n    <==> 1/b^n
     - Fractional       # b^(m/n) <==> (n√b)^m
     - Power            # b^m^n   <==> b^(m*n)
