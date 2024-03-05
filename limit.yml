@@ -12,19 +12,19 @@ Limit:
   
   Calculating Limits:
     - Direct Substitution # f(a) = L
-    - Factoring # 0/0
-    - Rationalizing # square roots
-    - L'Hôpital's Rule # 0/0 or ∞/∞
+    - Factoring           # 0/0
+    - Rationalizing       # square roots
+    - L'Hôpital's Rule    # 0/0 or ∞/∞
 
   Special Limits:
     - Special Trigonometric Limits # limite( sin(x)/x, x, 0) = 1
-    - Special Exponential Limits # limite( (e^x - 1 / x), x, 0) = 1
-    - Special Logarithmic Limits # limite(ln(x)/x, x, 0) = 0
-    - Other Special Limits # 1^∞, ∞^0, 0^0, 0^∞
+    - Special Exponential Limits   # limite( (e^x - 1 / x), x, 0) = 1
+    - Special Logarithmic Limits   # limite(ln(x)/x, x, 0) = 0
+    - Other Special Limits         # 1^∞, ∞^0, 0^0, 0^∞
   
   More Approachs:
     - Graphical Approach # Graphical Analysis
-    - Series Expansion # Taylor Series
+    - Series Expansion   # Taylor Series
   
   Related:
     - Continuity
