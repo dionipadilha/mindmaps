@@ -15,36 +15,36 @@ Conjugações:
   - 3ª Conjugação # sorrir, dormir
   
 Formas Nominais: # o verbo assume outra posição
-  - Infinitivo # estudar
-  - Gerúndio   # estudando
-  - Particípio # estudado
+  - Infinitivo   # forma básica > estudar
+  - Gerúndio     # em desenvolvimento > estudando
+  - Particípio   # ação concluída > estudado
  
 ---
 # Flexão do verbo:
   
 Pessoa:
-  - 1ª Pessoa # Quem fala
-  - 2ª Pessoa # Para quem se fala
-  - 3ª Pessoa # De quem se fala
+  - 1ª Pessoa # Quem fala         > eu
+  - 2ª Pessoa # Para quem se fala > tu
+  - 3ª Pessoa # De quem se fala   > ele
     
 Número:
-  - singular
-  - plural
+  - singular # um ser
+  - plural   # mais de um ser
   
-Vozes do verbo:
-  - Ativa     # O sujeito executa a ação do verbo
-  - Passiva   # O sujeito sofre a ação do verbo
-  - Reflexiva # O sujeito executa e sofre a ação
+Vozes Verbais:
+  - Ativa     # suj executa a ação > Eu canto.
+  - Passiva   # suj sofre a ação > A música foi cantada.
+  - Reflexiva # suj executa e sofre a ação > Eu me arrependo.
     
-Tempos do verbo:
-  - Pretérito # Ação do verbo ocorreu antes do momento do enunciado
-  - Presente  # Ação do verbo ocorre durante o momento do enunciado
-  - Futuro    # Ação do verbo ocorrerá após o momento do enunciado
+Tempos Verbais:
+  - Pretérito # antes do momento da fala  > estudei
+  - Presente  # durante o momento da fala > estudo
+  - Futuro    # após o momento da fala    > estydarei
     
 ---
 # Modos Verbais:
 
-Indicativo: # ações tidas como reais ou certas
+Indicativo:              # ações tidas como reais ou certas
   - Presente             # Bob está estudando para a prova.
   - Pretérito Perfeito   # Bob estudou  para a prova.
   - Pretérito Imperfeito # Bob estudava para as provas.
@@ -52,31 +52,31 @@ Indicativo: # ações tidas como reais ou certas
   - Futuro do Presente   # Bob estudará  para a prova amanhã.
   - Futuro do Pretérito  # Bob estudaria para a prova se pudesse.
       
-Subjuntivo: # ações possíveis, duvidosas
+Subjuntivo:       # ações possíveis, duvidosas
   - Presente      # Mesmo que Bob estude, ele irá reprovar.
   - Pret. Imperf. # Se Bob estudasse, acertaria todas.
   - Futuro        # Quando Bob estudar, vai ser o melhor.
       
-Imperativo: # ordens, conselhos ou pedidos
+Imperativo:  # ordens, conselhos ou pedidos
   - Presente # Bob, estude para não se arrepender depois.
 
 ---
 # Conjugação Verbal:
     
-Regular: # seguem um padrão
+Regular:   # seguem um padrão
   - correr # corri, correste, correu, corremos, correstes, correram
     
 Irregular: # não seguem o padrão
-  - fazer # fiz, fizeste, fizemos, fez, fizestes, fizeram
+  - fazer  # fiz, fizeste, fizemos, fez, fizestes, fizeram
     
     
 Anômalo: # apresentam modificações no radical
-  - ser # sou, és, é, somos, sois, são
+  - ser  # sou, és, é, somos, sois, são
     
 Defectivo: # não apresenta todas as formas
-  - falir # eu -,tu -, ele - , nós falimos, vós falis, eles -
+  - falir  # nós falimos, vós falis
     
-Abundante: # mais de uma forma
+Abundante:   # mais de uma forma
   - imprimir # imprimir > imprimido,impresso
   - pagar    # pagar > pagado, pago
 
@@ -84,24 +84,19 @@ Abundante: # mais de uma forma
 # Conceitos Adicionais
 
 Transitividade Verbal:
-
-  Transitivos:  # necessitam de um complemento
-    - Diretos   # sem preposição
-    - Indiretos # com preposição
-  
+  - Transitivo Direto   # necessita de um complemento sem preposição
+  - Transitivo Indireto # necessita de um complemento com preposição
   - Intransitivos # não necessitam de um complemento
-  
   - Ligação # ligação entre o sujeito e o predicativo do sujeito
 
 Verbos Impessoais: # apenas terceira pessoa do singular
-  - chover
-  - haver # no sentido de existir
+  - chover                        # Chove muito aqui no Rio.
+  - haver (no sentido de existir) # Há muitas opções para escolher.
 
 Locuções verbais: # v_auxiliar (conjugado) + v_principal(nominal)
-  - Essas tarefas já "foram" "feitas" na semana passada.
-  - Meu relatório "estará" "acabado" amanhã.
+  - Eu devo ir agora.
   
-Conjugação Pronominal: # v_pronominais acompanhados de pronomes oblíquos
+Verbo Pronominal: # verbos acompanhados de pronomes oblíquos
   - arrepender-se
   - atirar-se
   - lembrar-se
