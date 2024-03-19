@@ -1,0 +1,93 @@
+CLASSES GRAMATICAIS:
+  
+  Variáveis: # gênero, número, grau
+  
+    - Substantivo: # nomes
+      - Simples ou Composto   # chuva, guarda-chuva
+      - Comum ou Próprio      # gato, Tom
+      - Concreto ou Abstrato  # dragão, verdade
+      - Primitivo ou Derivado # piano, pianista
+      - Coletivo              # enxame, matilha, cardume
+      
+    - Artigo: # definir o substantivo
+      - Definido   # o bolo, a bola
+      - Indefinido # uns ratos comeram o bolo
+    
+    - Adjetivo: # caracterizar o substantivo
+      - Pátrios          # Nós somos brasileiros.
+      - Primitivos       # Ela tem um espírito livre.
+      - Compostos        # Meu boné é verde-escuro.
+      - Locução Adjetiva # Eu sou uma mulher de fibra.
+      
+    - Numeral:
+      - Cardinal       # quantidades > sete tomates
+      - Ordinal        # ordenação   > terceiro livro
+      - Multiplicativo # dobro, duplo, triplo
+      - Fracionário    # meio, metade, terço
+    
+    - Pronome: # representa ou acompanha um substantivo
+      - Pessoal:         # pessoas do discurso
+        - Caso Reto      # eu, tu, ...
+        - Oblíquo Átono  # me, te, se, lhe, ...
+        - Oblíquo Tônico # mim, comigo, ti, contigo, ...
+        - Tratamento       # vossa excelência, santidade, ...
+      - Possessivo       # meu, minha, ...
+      - Demonstrativo    # aquele, este, ...
+      - Indefinido       # "Ninguém" me viu entrando.
+      - Interrogativo    # "Quantos" anos você tem?
+      - Relativo         # Fui eu "que" escrevi essa história.
+    
+    - Verbos: # ações, estados ou fenômenos
+      
+      - Modos Verbais:
+        - Indicativo # ações tidas como reais
+        - Subjuntivo # ações que não temos certeza
+        - Imperativo # expressar ordem ou conselho
+      
+      - Tempos Verbais: # momento da ação
+        - Passado:
+          - Pretérito Perfeito          # Bob estudou
+          - Pretérito Imperfeito        # Bob estudava
+          - Pretérito Mais Que Perfeito # Bob estudara
+        - Presente # Bob estuda
+        - Futuro:
+          - futuro do Presente  # Bob estudará
+          - futuro do Pretérito # Bob estudaria
+          
+        - Conjugação Verbal:
+          - Regular   # segue o padrão > estudar, ...
+          - Irregular # não segue o padrão > vir -> vós vindes
+          - Anômalo   # modifica o radical > ir -> eu vou
+          - Defectivo # não apresenta todas as formas > falir
+          - Abundante # mais de uma forma > imprimido ou impresso
+          
+  Invariáveis:
+    - Advérbio: # modifica o verbo, adjetivo ou outro advérbio
+      - Lugar       # Eu venho de "longe".
+      - Tempo       # Nós nos veremos "amanhã".
+      - Intensidade # Eles falam "demais".
+      - Modo        # Eles falam "rápido".
+      - Afirmação   # "Certamente" tentou de tudo.
+      - Negação     # "Não" quis nenhum.
+      - Dúvida      # "Talvez" eu volte.
+      
+    - Preposição  # ligar termos da oração
+    
+    - Conjunção:   # ligar orações entre si
+      - Conj. Subordinativas:
+        - Causal      # ..., porque ...
+        - Concessiva  # ..., embora ...
+        - Condicional # ... se ...
+        - Final       # ... para ...
+        - Temporal    # ... quando ...
+        - Consecutiva # A fila demorou tanto "que" eu desisti.
+        - Comparativa # ... do que ...
+        - Integrante  # Eu pensei "que" nós iríamos sair logo.
+      - Conj. Coordenadas:
+        - Aditivas     # ... e ...
+        - Alternativas # ... ou ...
+        - Adversativas # ..., mas ...
+        - Conclusivas  # ..., portanto ...
+        - Explicativas # Foi agradável, "porque" era silêncioso.
+    
+    - Interjeição # expressões autônomas, exclamativos!
