@@ -1,0 +1,79 @@
+Verbos: # expressam ações, estados ou fenômenos
+
+Estrutura do Verbo: # tom-a-re-mos
+  - radical                   # forma que não se altera
+  - vogal temática            # define o tipo de conjugação
+  - desinência modo-temporal  # apresenta o modo e o tempo
+  - desinência número-pessoal # apresenta o número e a pessoa
+  
+Conjugações:
+  - 1ª Conjugação # cantar, falar
+  - 2ª Conjugação # correr, vender
+  - 3ª Conjugação # sorrir, dormir
+  
+Formas Nominais: # o verbo assume outra posição
+  - Infinitivo # estudar
+  - Gerúndio   # estudando
+  - Particípio # estudado
+  
+Locuções verbais: # v_auxiliar (conjugado) + v_principal(nominal)
+  - Essas tarefas já "foram" "feitas" na semana passada.
+  - Meu relatório "estará" "acabado" amanhã.
+  
+Flexão do verbo:
+  
+  Pessoa:
+    - 1ª Pessoa # Quem fala
+    - 2ª Pessoa # Para quem se fala
+    - 3ª Pessoa # De quem se fala
+    
+  Número:
+    - singular
+    - plural
+  
+  Vozes do verbo:
+    - Ativa     # O sujeito executa a ação do verbo
+    - Passiva   # O sujeito sofre a ação do verbo
+    - Reflexiva # O sujeito executa e sofre a ação
+    
+  Tempos do verbo:
+    - Pretérito # Ação do verbo ocorreu antes do momento do enunciado
+    - Presente  # Ação do verbo ocorre durante o momento do enunciado
+    - Futuro    # Ação do verbo ocorrerá após o momento do enunciado
+    
+  Modos Verbais: # atitude do falante
+  
+    Indicativo: # ações tidas como reais ou certas
+      - Presente             # Bob está estudando para a prova.
+      - Pretérito Perfeito   # Bob estudou  para a prova.
+      - Pretérito Imperfeito # Bob estudava para as provas.
+      - Pretérito +QPerfeito # Bob estudara para a prova daquele ano.
+      - Futuro do Presente   # Bob estudará  para a prova amanhã.
+      - Futuro do Pretérito  # Bob estudaria para a prova se pudesse.
+      
+    Subjuntivo: # ações possíveis, duvidosas
+      - Presente      # Mesmo que Bob estude, ele irá reprovar.
+      - Pret. Imperf. # Se Bob estudasse, acertaria todas.
+      - Futuro        # Quando Bob estudar, vai ser o melhor.
+      
+    Imperativo: # ordens, conselhos ou pedidos
+      - Presente # Bob, estude para não se arrepender depois.
+  
+Conjugação Verbal:
+    
+    Regular: # seguem um padrão
+    - correr # corri, correste, correu, corremos, correstes, correram
+    
+    Irregular: # não seguem o padrão
+      - fazer # fiz, fizeste, fizemos, fez, fizestes, fizeram
+    
+    
+    Anômalo: # apresentam modificações no radical
+      - ser # sou, és, é, somos, sois, são
+    
+    Defectivo: # não apresenta todas as formas
+      - falir # eu -,tu -, ele - , nós falimos, vós falis, eles -
+    
+    Abundante: # mais de uma forma
+      - imprimir # imprimir > imprimido,impresso
+      - pagar    # pagar > pagado, pago
