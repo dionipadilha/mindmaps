@@ -4,7 +4,6 @@ Limit:
     - Intuitive Aproach # f(x) gets closer to L as x gets closer to a
     - Formal Definition # |f(x) - L| < ε, if 0 < |x - a| < δ
     
-  
   Limits:
     - Limit of a Function # limite(f(x), x, a) = L
     - Right-Hand Limit    # limite(f(x), x, a, '+') = L
