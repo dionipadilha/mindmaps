@@ -84,10 +84,11 @@ Abundante:   # mais de uma forma
 # Conceitos Adicionais
 
 Transitividade Verbal:
-  - Transitivo Direto   # necessita de um complemento sem preposição
-  - Transitivo Indireto # necessita de um complemento com preposição
-  - Intransitivos       # não necessitam de um complemento
-  - Ligação             # ligação entre o sujeito e o predicativo
+  - Transitivo Direto (VTD)   # Bob leu o livro.
+  - Transitivo Indireto (VTI) # Bob gosta de estudar.
+  - Bitransitivo (VTDI)       # Bob explicou a lição aos colegas.
+  - Intransitivos (VI)        # Bob chegou.
+  - Ligação (VL)              # Bob é estudioso.
 
 Verbos Impessoais:                # apenas terceira pessoa do singular
   - chover                        # Chove muito aqui no Rio.
