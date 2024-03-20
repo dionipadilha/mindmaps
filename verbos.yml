@@ -83,11 +83,11 @@ Abundante:   # mais de uma forma
 ---
 # Conceitos Adicionais
 
-Transitividade Verbal:
+Predicação Verbal:
+  - Intransitivos (VI)        # Bob acordou.
   - Transitivo Direto (VTD)   # Bob leu o livro.
   - Transitivo Indireto (VTI) # Bob gosta de estudar.
   - Bitransitivo (VTDI)       # Bob emprestou o livro ao colega.
-  - Intransitivos (VI)        # Bob chegou.
   - Ligação (VL)              # Bob é estudioso.
 
 Verbos Impessoais:                # apenas terceira pessoa do singular
