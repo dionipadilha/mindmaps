@@ -67,7 +67,7 @@ Regular:   # seguem um padrão
   - correr # corri, correste, correu, corremos, correstes, correram
     
 Irregular: # não seguem o padrão
-  - fazer  # eu fiz, tu fizeste, ele fazeu? (ele fez)
+  - fazer  # eu fiz, tu fizeste, ele ? (fazeu / fez)
     
 Anômalo: # apresentam modificações no radical
   - ser  # sou, és, é, somos, sois, são
