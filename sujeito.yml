@@ -12,5 +12,5 @@ Sujeito: # concorda com o verbo
   Indeterminado: # não há um referente explícito
     - Precisa-se de voluntários. # Quem?
      
-  Sujeito Inexistente: # não há um sujeito explícito ou implícito.
+  Inexistente: # não há um sujeito explícito ou implícito.
     - Choveu muito ontem. # Quem?
