@@ -76,7 +76,7 @@ Defectivo: # não apresenta todas as formas
   - falir  #  nós falimos, vós falis
     
 Abundante:   # mais de uma forma
-  - imprimir # imprimir > imprimido,impresso
+  - imprimir # imprimir > imprimido, impresso
   - pagar    # pagar > pagado, pago
 
 ---
