@@ -67,13 +67,13 @@ Regular:   # seguem um padrão
   - correr # corri, correste, correu, corremos, correstes, correram
     
 Irregular: # não seguem o padrão
-  - fazer  # fiz, fizeste, fizemos, fez, fizestes, fizeram
+  - fazer  # eu fiz, tu fizeste, ele fazeu? (ele fez)
     
 Anômalo: # apresentam modificações no radical
   - ser  # sou, és, é, somos, sois, são
     
 Defectivo: # não apresenta todas as formas
-  - falir  # nós falimos, vós falis
+  - falir  #  nós falimos, vós falis
     
 Abundante:   # mais de uma forma
   - imprimir # imprimir > imprimido,impresso
