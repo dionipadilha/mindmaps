@@ -10,7 +10,7 @@ Sujeito: # concorda com o verbo
     - Chegou cedo para trabalhar. # Quem? ele, josé, maria, ...
      
   Indeterminado: # não há um referente explícito
-    - Precisa-se de voluntários. # Quem?
+    - Precisa-se de voluntários. # Quem? -
      
   Inexistente: # não há um sujeito explícito ou implícito.
-    - Choveu muito ontem. # Quem?
+    - Choveu muito ontem. # Quem? -
