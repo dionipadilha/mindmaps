@@ -110,15 +110,15 @@ Devem ser empregados sempre no singular, pois não há sujeito para a realizaç�
 -   **Haver (no sentido de existir)**: Há muitas opções para escolher.
 -  **Fazer(no sentido de tempo)**: Faz anos que não estudo gramática.
 
-## Conceitos Adicionais
-
-### Predicação Verbal
+## Predicação Verbal
 
 -   **Verbo de Ligação (VL)**: Ligam o sujeito a um predicativo (ex: Bob é estudioso).
 -   **Intransitivos (VI)**: Não requerem complemento (ex: Bob acordou).
 -   **Transitivo Direto (VTD)**: Requerem complemento sem preposição (ex: Bob leu o livro).
 -   **Transitivo Indireto (VTI)**: Requerem complemento com preposição (ex: Bob gosta de estudar).
 -   **Bitransitivo (VTDI)**: Requerem dois complementos, um com e outro sem preposição (ex: Bob emprestou o livro ao colega).
+
+## Conceitos Adicionais
 
 ### Locuções Verbais
 
