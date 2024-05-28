@@ -1,5 +1,5 @@
 
-# Verbos: Fundamentos, Flexões e Conjugação
+# Verbos
 
 ## Conceitos Básicos
 
