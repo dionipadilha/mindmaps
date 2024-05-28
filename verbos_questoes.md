@@ -1,21 +1,21 @@
 ### Questões para Praticar Conhecimentos sobre Verbos em Português
 
 1.  Identifique as partes do verbo "falaremos" e descreva cada uma delas.
-    
-    -   "fal" é o radical, que contém o significado básico do verbo.
-    -   "a" é a vogal temática, que indica a conjugação do verbo (1ª conjugação, terminada em -ar).
-    -   "re" é o sufixo do futuro do presente, que indica o tempo verbal.
-    -   "mos" é a desinência número-pessoal, que indica a pessoa (nós) e o número (plural).
+
+-   "fal" é o radical, que contém o significado básico do verbo.
+-   "a" é a vogal temática, que indica a conjugação do verbo (1ª conjugação, terminada em -ar).
+-   "re" é o sufixo do futuro do presente, que indica o tempo verbal.
+-   "mos" é a desinência número-pessoal, que indica a pessoa (nós) e o número (plural).
 
 2.  Explique a função da vogal temática no verbo "comer".
-    
-    -   A vogal temática "e" no verbo "comer" indica que o verbo pertence à 2ª conjugação, que é caracterizada pelos verbos terminados em "-er".
+
+-   A vogal temática "e" no verbo "comer" indica que o verbo pertence à 2ª conjugação, que é caracterizada pelos verbos terminados em "-er".
 
 3.  Classifique os verbos "vender", "dormir" e "cantar" de acordo com suas conjugações.
-    
-    -   "Vender" pertence à 2ª conjugação (verbos terminados em -er).
-    -   "Dormir" pertence à 3ª conjugação (verbos terminados em -ir).
-    -   "Cantar" pertence à 1ª conjugação (verbos terminados em -ar).
+
+-   "Vender" pertence à 2ª conjugação (verbos terminados em -er).
+-   "Dormir" pertence à 3ª conjugação (verbos terminados em -ir).
+-   "Cantar" pertence à 1ª conjugação (verbos terminados em -ar).
 
 4.  Dê um exemplo de um verbo de cada conjugação e conjugue-o na 1ª pessoa do singular do presente do indicativo.
     
