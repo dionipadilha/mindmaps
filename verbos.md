@@ -87,7 +87,8 @@ Usado para ordens, conselhos ou pedidos:
 - **Irregular**: Conservam o radical, mas não seguem o padrão de conjugação.
 - **Anômalo**: Apresentam modificações no radical.
 - **Defectivo**: Não apresentam todas as formas verbais.
-- **Abundante**: Têm mais de uma forma para o particípio (ex: imprimido, impresso).
+- **Abundante**:  Têm mais de uma forma para o particípio.
+- **Impessoais**:  Empregados sempre no singular, pois não há sujeito.
 
 Pronome   |Regular   |Irregular |Anômalo |Defectivo
 ----------|----------|----------|--------|----------
@@ -96,14 +97,20 @@ Tu        |correste  |fizeste   |és      |-
 Ele/Ela   |correu    |fez       |é       |-
 Nós       |corremos  |fizemos   |somos   |falimos
 Vós       |correis   |fizestes  |sois    |falis
-Eles/Elas | correram |fizeram   |são     |-
+Eles/Elas |correram  |fizeram   |são     |-
 
-### Verbos Impessoais
+### Abundante
 
-São conjugados apenas na terceira pessoa do singular:
+Têm mais de uma forma para o particípio:
+- **Imprimir**:  imprimido, impresso.
+- **Pagar**:  pagado, pago.
 
+### Impessoais
+
+Devem ser empregados sempre no singular, pois não há sujeito para a realização da concordância:
 -   **Chover**: Chove muito aqui no Rio.
 -   **Haver (no sentido de existir)**: Há muitas opções para escolher.
+-  **Fazer(no sentido de tempo)**: Faz anos que não estudo gramática.
 
 ## Conceitos Adicionais
 
