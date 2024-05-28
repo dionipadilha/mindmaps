@@ -81,8 +81,6 @@ Usado para ordens, conselhos ou pedidos:
 
 ## Conjugação Verbal
 
-### Conjugação
-
 - **Regular**: Seguem um padrão específico.
 - **Irregular**: Conservam o radical, mas não seguem o padrão de conjugação.
 - **Anômalo**: Apresentam modificações no radical.
