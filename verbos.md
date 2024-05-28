@@ -81,6 +81,8 @@ Usado para ordens, conselhos ou pedidos:
 
 ## Conjugação Verbal
 
+### Conjugação
+
 - **Regular**: Seguem um padrão específico.
 - **Irregular**: Conservam o radical, mas não seguem o padrão de conjugação.
 - **Anômalo**: Apresentam modificações no radical.
@@ -96,6 +98,12 @@ Nós       |corremos  |fizemos   |somos   |falimos
 Vós       |correis   |fizestes  |sois    |falis
 Eles/Elas | correram |fizeram   |são     |-
 
+### Verbos Impessoais
+
+São conjugados apenas na terceira pessoa do singular:
+
+-   **Chover**: Chove muito aqui no Rio.
+-   **Haver (no sentido de existir)**: Há muitas opções para escolher.
 
 ## Conceitos Adicionais
 
@@ -106,13 +114,6 @@ Eles/Elas | correram |fizeram   |são     |-
 -   **Transitivo Direto (VTD)**: Requerem complemento sem preposição (ex: Bob leu o livro).
 -   **Transitivo Indireto (VTI)**: Requerem complemento com preposição (ex: Bob gosta de estudar).
 -   **Bitransitivo (VTDI)**: Requerem dois complementos, um com e outro sem preposição (ex: Bob emprestou o livro ao colega).
-
-### Verbos Impessoais
-
-São conjugados apenas na terceira pessoa do singular:
-
--   **Chover**: Chove muito aqui no Rio.
--   **Haver (no sentido de existir)**: Há muitas opções para escolher.
 
 ### Locuções Verbais
 
