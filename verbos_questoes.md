@@ -10,7 +10,8 @@
 
 2.  Explique a função da vogal temática no verbo "comer".
 ```markdown
-- A vogal temática "e" no verbo "comer" indica que o verbo pertence à 2ª conjugação, que é caracterizada pelos verbos terminados em "-er".
+A vogal temática "e" no verbo "comer" indica que o verbo pertence à 2ª conjugação,
+que é caracterizada pelos verbos terminados em "-er".
 ```
 
 3.  Classifique os verbos "vender", "dormir" e "cantar" de acordo com suas conjugações.
