@@ -1,10 +1,10 @@
 ---
 # YAML Basics
 YAML:
-  - human-readable data serialization format
-  - commonly used for:
-    - configuration files
-    - data exchange
+  - data_serialization # human-readable format
+  - used:
+    - configuration_file
+    - data_exchange
 
 Practices:
   - organization # group related data
