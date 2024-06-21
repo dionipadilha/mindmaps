@@ -1,4 +1,3 @@
----
 request: explain the text in a mindmap style
 
 Chain-of-Thought:
