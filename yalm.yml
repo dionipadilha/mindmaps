@@ -12,7 +12,7 @@ Practices:
   - comments     # short and clearly comments
   - lines        # 80-100 characters
   - long strings # use folded style (>)
-  - quotes
+  - quotes:
     - quotes strings only when necessary # "unnecessary_quote"
     - quotes special characters to avoid parsing issues # "@special&characters"
 
