@@ -1,8 +1,8 @@
 ### YAML Basics
 
-YAML is a human-readable data serialization format often used for configuration files and data exchange. Its structure, based on indentation with spaces, organizes data into lists, maps and objects, supporting types such as strings, numbers, data and booleans. To promote data reuse, YAML uses anchors to define blocks of data and aliases to reference them, avoiding repetition. The language offers flexibility in representing multiline strings, with styles that preserve or modify line breaks.
+YAML is a human-readable data serialization format often used for configuration files and data exchange. Its structure, based on indentation with spaces, organizes data into lists, maps, and objects, supporting types such as strings, numbers, dates, and booleans. To promote data reuse, YAML uses anchors to define blocks of data and aliases to reference them, avoiding repetition. The language offers flexibility in representing multiline strings, with styles that preserve or modify line breaks.
 
-'''yml
+```yml
 # YAML Basics
 
 YAML:
@@ -14,32 +14,32 @@ YAML:
 Practices:
   - organization # group related data
   - indentation  # spaces not tabs, two spaces
-  - comments     # short and clearly comments
+  - comments     # short and clearly written comments
   - lines        # 80-100 characters
-  - quotes       # quotes strings only when necessary
+  - quotes       # quote strings only when necessary
   - long strings # use folded style (>)
 
 Types:
   - strings    # singleline, multiline
-  - numbers    # {int: 42, float: 3.14, hexa: 0xff, scifi: 1e+12, z: 3+4i}
+  - numbers    # {int: 42, float: 3.14, hex: 0xff, sci: 1e+12, complex: 3+4i}
   - timestamps # {date: 2024-02-05, time: 16:32:48, datetime: 2001-12-15T02:59:43.1Z}
   - booleans   # true/false, yes/no, on/off
   - nulls      # null, undefined
-  - tags       # explicitly_type: !!python/tuple [5, 7]
+  - tags       # explicitly_typed: !!python/tuple [5, 7]
 
 Structures:
   - list   # [item, item, ...]
   - map    # { k: v, k: v, ... }
-  - object # { name: bob, age: 42, hobbies: [reading, hiking]}
+  - object # { name: bob, age: 42, hobbies: [reading, hiking] }
 
 DRY: # Don’t Repeat Yourself
   - anchors # & define a block
   - aliases # * refer back to the anchored content
-'''
+```
 
 Example demonstrating YAML anchors and aliases:
 
-'''yml
+```yml
 # Define a server configuration block with an anchor named &server_config
 server: &server_config
   host: my-server.com
@@ -53,10 +53,11 @@ web_server:
 database_server:
   <<: *server_config
   port: 3306
-'''
+```
 
 Example demonstrating YAML multiline strings:
-'''yml
+
+```yml
 # Folded Style ('>') - removes all newlines except the last
 description: >
   This is a long description of my configuration 
@@ -69,4 +70,4 @@ long_poem: |
   Violets are blue,
   This poem is long,
   And uses literal style too.
-'''
+```
