@@ -1,10 +1,5 @@
-### YAML Basics
-
-YAML, a human-readable data serialization format, is often used for configuration files and data exchange. Its structure, based on indentation with spaces, organizes data into lists, maps and objects, supporting types such as strings, numbers, data and booleans. To promote data reuse, YAML uses anchors to define blocks of data and aliases to reference them, avoiding repetition. The language offers flexibility in representing multiline strings, with styles that preserve or modify line breaks. The examples demonstrate the use of anchors and aliases to prevent data reproduction and the different styles for representing multiline strings.
-
-```yml
+---
 # YAML Basics
-
 YAML:
   - human-readable data serialization format
   - commonly used for:
@@ -37,11 +32,10 @@ Structures:
 DRY: # Don’t Repeat Yourself
   - anchors # & define a block
   - aliases # * refer back to the anchored content
-```
+  
+---
+# Example demonstrating YAML anchors and aliases:
 
-Example demonstrating YAML anchors and aliases:
-
-```yml
 # Define a server configuration block with an anchor named &server_config
 server: &server_config
   host: my-server.com
@@ -55,11 +49,10 @@ web_server:
 database_server:
   <<: *server_config
   port: 3306
-```
 
-Example demonstrating YAML multiline strings:
+---
+# Example demonstrating YAML multiline strings:
 
-```yml
 # Folded Style ('>') - removes all newlines except the last
 description: >
   This is a long description of my configuration 
@@ -72,4 +65,4 @@ long_poem: |
   Violets are blue,
   This poem is long,
   And uses literal style too.
-```
+---
